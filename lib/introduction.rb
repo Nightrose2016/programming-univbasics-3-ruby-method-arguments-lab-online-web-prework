@@ -1,7 +1,5 @@
-name = Josh
-language = ruby
 
-def introduction
+def introduction (Lialah)
   puts "Hi, my name is #{name}."
 end
 
